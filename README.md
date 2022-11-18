@@ -1,10 +1,10 @@
 # Mern_Todo
-For backend 
+#For backend 
 cd backend
 npm i
 npm start
 
-For Frontend
+#For Frontend
 cd backend
 cd frontend
 npm i
